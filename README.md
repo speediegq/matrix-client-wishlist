@@ -1,6 +1,7 @@
 # matrix-client-wishlist
 Wishlist for my WIP Matrix client
 
+- Sliding sync (and other Matrix 2.0 features)
 - Actions in bulk for every room in a space
 - Friends (not part of the Matrix spec so would be specific to this client)
 - Spaces
