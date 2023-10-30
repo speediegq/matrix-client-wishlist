@@ -5,6 +5,7 @@ Wishlist for my WIP Matrix client
 - Actions in bulk for every room in a space
 - Friends (not part of the Matrix spec so would be specific to this client)
 - Spaces
+- Custom emojis (really just images though, could be hosted on the leetchat server?)
 - User CSS/JavaScript
 - Allowing UI elements to be moved and positioned freely.
 
